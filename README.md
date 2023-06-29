@@ -15,7 +15,7 @@
 <div align="center">
 	
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=alberthskim&theme=dark&background=000000" alt="GitHub Streak" width="400px">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=alberthskim&theme=dark&background=000000" alt="GitHub Streak" width="350px">
   </a>
 	
 </div>
