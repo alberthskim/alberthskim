@@ -1,15 +1,18 @@
-### Hi there 👋
+<div align="left">
+  <img src="https://i.imgur.com/R87RPQN.gif" height="500px"/>
+</div>
 
 <div>
-<div align="right">
+<div align="right"> 
   
-[![My Skills](https://skillicons.dev/icons?i=aws,codepen,css,docker,express)]
-[![My Skills2](https://skillicons.dev/icons?i=flask,git,github,html,js)]
-[![My Skills3](https://skillicons.dev/icons?i=nodejs,postgres,postman,py,react)]
-[![My Skills4](https://skillicons.dev/icons?i=redux,sqlite,sequelize,nodejs,vscode)]
+![Skills](https://skillicons.dev/icons?i=aws,codepen,css,docker,express)
+![Skills2](https://skillicons.dev/icons?i=flask,git,github,html,js)
+![Skills3](https://skillicons.dev/icons?i=nodejs,postgres,postman,py,react)
+![Skills4](https://skillicons.dev/icons?i=redux,sqlite,sequelize,nodejs,vscode)
 
 </div>
 </div>
+
 
 
 <!--
